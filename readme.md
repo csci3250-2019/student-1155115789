@@ -8,12 +8,9 @@ Name: **Jackie Leung**
  
 ## Objective
 
- - [X] Learn about networking
- - [X] Learn about HTML
- - [X] Start a web server on my Windows Server
- - [ ] Learn about JavaScript and CSS
- - [ ] Learn about MySQL and PHP
- - [ ] Learn about Python
+ - [X] MS1
+ - [ ] MS2
+ - [ ] MS3
 
 ## Courses I take in this term
 
