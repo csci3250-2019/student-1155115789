@@ -1,6 +1,6 @@
 Name: **Jackie Leung**
 
-## Programming Languages I Know
+## Learned Programming Languages
 
  * C/C++
  * Java
