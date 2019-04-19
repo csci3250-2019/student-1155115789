@@ -8,9 +8,9 @@ Name: **Jackie Leung**
  
 ## Objective
 
- - [X] MS1
- - [ ] MS2
- - [ ] MS3
+ - [X] milestone 1
+ - [X] milestone 2
+ - [ ] milestone 3
 
 ## Courses I take in this term
 
